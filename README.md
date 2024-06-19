@@ -28,6 +28,6 @@ Windows System Administrator with 8 years of experience (as of June 2024) I'm us
 
 ### Reach out to me:
 
-💼 https://LinkedIn.com/In/Cernusak
+💼 https://www.linkedin.com/in/cernusak/
 
 📧 jeremiahcernusak@gmail.com
