@@ -1,8 +1,9 @@
-👋 Hi, I’m @cernusak
+## Jeremiah Cernusak
 
-👀 I'm a free-lance, self-taught coder.
+Cleared System Administrator with 8 years of experience (as of June 2024)
+I'm using this platform to build and demonstrate experience primarily in Azure Cloud Administration, and 
+secondarily in Python.
 
-🌱 I'm still getting the hang of things, not experienced yet.
-
-I'm currently working with Java, C#, and Lua. I work on macro scripts for Logitech, as well as miscellaneous
-other projects while I still kinda figure things out. 
+👋 Reach out to me:
+💼 https://LinkedIn.com/In/Cernusak
+📧 jeremiahcernusak@gmail.com
