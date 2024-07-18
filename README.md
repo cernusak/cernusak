@@ -7,8 +7,9 @@ Windows System Administrator with 8 years of experience (as of June 2024) I'm us
 ### Goals for 2024:
 - [x] Achieve my Associates Degree `MAY 2024`
 - [x] Achieve AZ-900 Certification - Azure Certified Associate `JUNE 14, 2024`
-- [ ] Achieve AZ-104 Certification - Azure Administrator Associate 
+- [ ] Achieve LPIC-1 Certification - Linux Professional Institute Certification - One
 - [ ] Achieve EX200 Certification - Red Hat Certified System Administrator
+- [ ] Achieve AZ-104 Certification - Azure Administrator Associate 
 
 ### 
 
