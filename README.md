@@ -1,32 +1,9 @@
 ## Jeremiah Cernusak, System Administrator
 
-
 ### Who Am I?
-Windows System Administrator with 8 years of experience (as of June 2024) I'm using this platform to build and demonstrate experience primarily in Azure Cloud Administration, and  secondarily in Python. 
+I'm a System Administrator primarily working federal cleared positions. I have extensive experience in Windows both professionally and recreationally, but am aiming to pivot to Linux Administration in 2026. I'm a huge computer nerd, an avid gamer, and I love lifting weights. 
 
-### Goals for 2024:
-- [x] Achieve my Associates Degree `MAY 2024`
-- [x] Achieve AZ-900 Certification - Azure Certified Associate `JUNE 14, 2024`
-- [ ] Achieve AZ-104 Certification - Azure Administrator Associate 
-
-### 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Reach out to me:
-
-💼 https://www.linkedin.com/in/cernusak/
-
-📧 jeremiahcernusak@gmail.com
+### Goals for 2026:
+- [ ] Build out a static website
+- [ ] Achieve Red Hat Certified System Administrator
+- [ ] Achieve my Associate's of Computer Science
